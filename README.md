@@ -34,9 +34,6 @@ Olá! Sou José Beraldo, estudante de Ciências da Computação, com sólida bas
 
 #
 
-
-#
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/021berlim/021berlim/output/snake.svg" alt="Snake animation" />
 </div>
