@@ -5,7 +5,7 @@
 </div>
 
 <p align="justify">
-Olá! Sou José Beraldo, estudante de Ciências da Computação, com sólida base em lógica de programação, estruturas de dados, bancos de dados relacionais. Estou sempre em busca de novos desafios e me atualizando continuamente para absorver as tecnologias mais recentes. Minha paixão é aprender e transformar esses conhecimentos em soluções inovadoras que gerem valor na prática.
+Olá! Sou José Beraldo, estudante de Ciências da Computação, com sólida base em lógica de programação bancos de dados relacionais e outros. Estou sempre em busca de novos desafios e me atualizando continuamente para absorver as tecnologias mais recentes. Minha paixão é aprender e transformar esses conhecimentos em soluções inovadoras que gerem valor na prática.
 </p>
 
 #
