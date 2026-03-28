@@ -15,7 +15,7 @@ Olá! Sou José Beraldo, estudante de Ciências da Computação, com sólida bas
 <h3 align="left">Connect with me!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-c72c3b?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-beraldo-418414286/)
-[![Email](https://img.shields.io/badge/EMAIL-c72c3b?style=for-the-badge&logo=Gmail&logoColor=white)](Beraldo:josenetoberaldo@gmail.com)
+
 
 
 
