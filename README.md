@@ -30,7 +30,8 @@ Olá! Sou José Beraldo, estudante de Ciências da Computação, com sólida bas
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
 
 #
 
