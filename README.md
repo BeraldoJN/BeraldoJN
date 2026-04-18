@@ -5,38 +5,34 @@
 </div>
 
 <p align="justify">
-Olá! Sou José Beraldo, estudante de Ciências da Computação, com sólida base em lógica de programação bancos de dados relacionais e outros. Estou sempre em busca de novos desafios e me atualizando continuamente para absorver as tecnologias mais recentes. Minha paixão é aprender e transformar esses conhecimentos em soluções inovadoras que gerem valor na prática.
+Olá! Sou José Beraldo, estudante de Ciências da Computação na Unifran, com sólida base em lógica de programação, bancos de dados relacionais e arquitetura de software. Sou entusiasta de Linux e focado no ecossistema Back-end, transformando conhecimento em soluções inovadoras.
 </p>
 
-#
+---
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="Coding GIF" height="170px" src="./src/study.gif">
 
-<h3 align="left">Connect with me!</h3>
-
+### 🤝 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/Linkedin-c72c3b?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-beraldo-418414286/)
 
-
-
-
-<h3 align="left">My Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-
-#
-
-<div align="center">
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BeraldoJN/BeraldoJN/output/snake.svg" alt="Snake animation" />
+### 🛠️ My Stack
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
 </div>
+
+<br />
+
+---
+
+### 🐍 Snake Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeraldoJN/BeraldoJN/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeraldoJN/BeraldoJN/output/snake.svg">
+    <img alt="Github snake game" src="https://raw.githubusercontent.com/BeraldoJN/BeraldoJN/output/snake.svg">
+  </picture>
 </div>
