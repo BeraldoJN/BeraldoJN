@@ -5,12 +5,16 @@
 </div>
 
 <p align="justify">
-Olá! Sou José Beraldo, estudante de Ciências da Computação na Unifran, com sólida base em lógica de programação, bancos de dados relacionais e arquitetura de software. Sou entusiasta de Linux e focado no ecossistema Back-end, transformando conhecimento em soluções inovadoras.
+Hello! I'm José Beraldo, a Computer Science student at Unifran, with a solid foundation in programming logic, relational databases, and software architecture. I'm a Linux enthusiast focused on the back-end ecosystem, transforming knowledge into innovative solutions.
 </p>
 
 ---
 
 <img align="right" alt="Coding GIF" height="170px" src="./src/study.gif">
+
+### 🕮 Experience!
+
+Now Working on Working Agile
 
 ### 🤝 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/Linkedin-c72c3b?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-beraldo-418414286/)
