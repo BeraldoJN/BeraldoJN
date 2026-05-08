@@ -1,6 +1,20 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c72c3b&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%E2%8A%B9" alt="Typing SVG">
+    <img src="<svg xmlns="http://www.w3.org/2000/svg" width="524" height="64" viewBox="0 0 524 64" role="img" aria-label="welcome banner">
+  <rect width="524" height="64" fill="#050b16"/>
+
+  <text
+    x="262"
+    y="39"
+    text-anchor="middle"
+    fill="#c72c3b"
+    font-family="'Fira Code', 'Cascadia Code', 'Consolas', monospace"
+    font-size="22"
+    font-weight="500"
+  >
+    -+ welcome +-
+  </text>
+</svg>" alt="Typing SVG">
   </a>
 </div>
 
