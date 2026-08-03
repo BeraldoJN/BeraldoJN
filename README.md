@@ -14,7 +14,7 @@ Hello! I'm José Beraldo, a Computer Science student at Unifran, with a solid fo
 
 ### 🕮 Experience!
 
-Now Working on Working Agile
+Now working on Working Agile
 
 ### 🤝 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/Linkedin-c72c3b?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-beraldo-418414286/)
